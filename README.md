@@ -1,4 +1,4 @@
-# hack-days
+# Hack Days
 A directory of all the cool stuff made during BGMP Hack Days
 
 ## Where's the code, bub?
